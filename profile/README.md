@@ -1,5 +1,7 @@
 # Welcome to the Eaglercraft Community Repo!
 
+![Eagtek]([image link](https://raw.githubusercontent.com/eagler-community/.github/main/profileimages/image.png))
+
 ## -- What is this for?
 
 This is for the community to add unoffical changes to the Eaglercraft(X) code.
