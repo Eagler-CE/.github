@@ -1,6 +1,6 @@
 # Welcome to the Eaglercraft Community Repo!
 
-![Alt text](../profileimages/eagtek.png)
+![Alt text](https://github.com/Eagler-CE/.github/blob/main/profileimages/eagtek.png)
 
 ## -- What is this for?
 
