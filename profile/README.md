@@ -1,6 +1,6 @@
 # Welcome to the Eaglercraft Community Repo!
 
-![Alt text](../profileimages/image.png)
+![Alt text](../profileimages/eagtek.png)
 
 ## -- What is this for?
 
